@@ -37,27 +37,27 @@ Initial exploratory analysis was performed in Excel using pivot tables to unders
 ### Smoking Impact on Costs
 
 ![Smoker](images/smoking-impact.png)
-* Smokers not only have higher medical costs but also greater variability, indicating a wider range of expenses within this group.
+> Smokers not only have higher medical costs but also greater variability, indicating a wider range of expenses within this group.
 
 ### BMI vs Medical Costs
 
 ![BMI](images/bmi-vs-medical_costs.png)
-* BMI shows a moderate positive association with medical costs, although with high variability, indicating that additional factors influence healthcare expenses.
+> BMI shows a moderate positive association with medical costs, although with high variability, indicating that additional factors influence healthcare expenses.
 
 ### Age vs Medical Costs
 
 ![Age](images/age-vs-medical_costs.png)
-* There is a clear positive relationship between age and medical costs, suggesting that healthcare expenses tend to increase as individuals get older.
+> There is a clear positive relationship between age and medical costs, suggesting that healthcare expenses tend to increase as individuals get older.
   
 ### Smoking Status Distribution
 
 ![Age](images/smoking_status-distribution.png)
-* Non-smokers represent the majority of the dataset (79.51%), while smokers account for a significantly smaller portion (20.49%) of the population.
+> Non-smokers represent the majority of the dataset (79.51%), while smokers account for a significantly smaller portion (20.49%) of the population.
   
 ### Total Cost by Smoking Status
 
 ![Age](images/total-cost-by-smoking_status.png)
-* Although smokers represent a smaller portion of the dataset (20.49%), they account for a disproportionately large share (49.46%) of total medical costs.
+> Although smokers represent a smaller portion of the dataset (20.49%), they account for a disproportionately large share (49.46%) of total medical costs.
 
 ---
 
@@ -84,10 +84,26 @@ Public dataset with medical insurance costs and demographic information from the
 
 ---
 
-## 🔗 Project Structure
-
-* Data loading and cleaning
-* Exploratory data analysis
-* Feature engineering
-* Data visualization
-* Insights and conclusions
+## 📁 Project Structure
+```text
+medical-cost-analysis/
+│
+├── data/
+│ └── insurance.csv
+│
+├── notebooks/
+│ └── medical_cost_analysis.ipynb
+│
+├── excel/
+│ └── medical_cost_analysis.xlsx
+│
+├── images/
+│ ├── boxplot_smoker.png
+│ ├── age_vs_costs.png
+│ ├── bmi_vs_costs.png
+│ └── excel_analysis.png
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+```
