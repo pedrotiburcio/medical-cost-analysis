@@ -2,7 +2,7 @@
 
 ## 🎯 Objective
 
-Analyze healthcare cost data to identify the main factors influencing medical expenses, focusing on smoking, age, and BMI.
+Analyze healthcare cost data from the United States to identify the key factors driving medical expenses, with a focus on smoking, age, BMI, and regional differences, generating insights to support data-driven decision-making.
 
 ---
 
