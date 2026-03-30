@@ -28,7 +28,7 @@ Initial exploratory analysis was performed in Excel using pivot tables to unders
 
 ![Excel Pivot](images/initial-analysis_excel.png)
 
-🔗 View the spreadsheet: [Link](https://1drv.ms/x/c/839bfe0a4d0de048/IQAnY3YL1S9-S7HfYEtM744vAX3l2OaTsVPpq6-tvHIqOo0?e=PhKIxe)
+🔗 Open the Excel file online: [Link](https://1drv.ms/x/c/839bfe0a4d0de048/IQAnY3YL1S9-S7HfYEtM744vAX3l2OaTsVPpq6-tvHIqOo0?e=PhKIxe)
 
 ---
 
