@@ -1,6 +1,8 @@
 # 💰 Medical Cost Analysis
 
-![Medical Cost Banner](images/medical_cost-banner.png)
+<p align="center">
+  <img src="images/medical_cost-banner.png" alt="Medical Cost Analysis Banner" width="900">
+</p>
 
 ## 🎯 Objective
 
