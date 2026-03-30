@@ -2,7 +2,7 @@
 
 ## 🎯 Objective
 
-Analyze healthcare cost data from the United States to identify the key factors driving medical expenses, with a focus on smoking, age, BMI, and regional differences, generating insights to support data-driven decision-making.
+Analyze healthcare cost data from the United States using Python and Excel to identify the key factors driving medical expenses, with a focus on smoking, age, BMI, and regional differences, generating insights to support data-driven decision-making.
 
 ---
 
