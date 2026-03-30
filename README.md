@@ -102,8 +102,8 @@ medical-cost-analysis/
 │ ├── bmi-vs-medical_costs.png
 │ ├── initial-analysis_excel.png
 │ ├── smoking-impact.png
-│ └── smoking_status-distribution.png
-│ ├── total-cost-by-smoking_status.png
+│ ├── smoking_status-distribution.png
+│ └── total-cost-by-smoking_status.png
 │
 ├── README.md
 ├── requirements.txt
