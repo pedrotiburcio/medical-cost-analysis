@@ -80,7 +80,7 @@ Smoking is the primary factor driving higher medical costs, followed by age and 
 ## 📂 Dataset
 
 Public dataset with medical insurance costs and demographic information from the United States. It includes variables such as age, sex, BMI, smoking status, children, region, and individual medical charges. <br/>
-**Link do Dataset no Kaggle:** [Link](https://www.kaggle.com/datasets/mirichoi0218/insurance)
+**Dataset source on Kaggle:** [Link](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 
 ---
 
@@ -98,10 +98,12 @@ medical-cost-analysis/
 │ └── medical_cost_analysis.xlsx
 │
 ├── images/
-│ ├── boxplot_smoker.png
-│ ├── age_vs_costs.png
-│ ├── bmi_vs_costs.png
-│ └── excel_analysis.png
+│ ├── age-vs-medical_costs.png
+│ ├── bmi-vs-medical_costs.png
+│ ├── initial-analysis_excel.png
+│ ├── smoking-impact.png
+│ └── smoking_status-distribution.png
+│ ├── total-cost-by-smoking_status.png
 │
 ├── README.md
 ├── requirements.txt
